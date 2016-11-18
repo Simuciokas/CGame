@@ -16,6 +16,8 @@ namespace Simuciokas.SimuciokasCGames
 {
     public class SimuciokasCGames : RocketPlugin<SimuciokasCGamesConfiguration>
     {
+
+
         public DateTime? lastmessage = null;
         int gameanswer;
         int rInt;
